@@ -18,6 +18,7 @@ simplevideocall-tutorial.html 파일 안의 Service ID와 Secret Key를 수정�
 Service ID와 Secrete Key는 리모트몬스터 웹 콘솔에서 확인할 수 있습니다.
 
 리모트몬스터 웹 콘솔
+
 https://console.remotemonster.com/
 
 
